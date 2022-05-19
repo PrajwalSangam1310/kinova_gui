@@ -25,5 +25,5 @@
   ![Trajectory input](https://github.com/PrajwalSangam1310/kinova_gui/blob/main/images/trajectory_input.png)
 
 ## Example Video
-
+Download and check the example video. Robot draws a rectangle.
 ![example video](https://github.com/PrajwalSangam1310/kinova_gui/blob/main/video/example_video.mp4)
