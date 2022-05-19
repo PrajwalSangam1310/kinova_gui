@@ -3,7 +3,7 @@
 ## Installation
 
 - clone the [kinova_ros](https://github.com/Kinovarobotics/kinova-ros) package in your workspace.
-- clone and build this package.
+- clone this package.
 - build it in your workspace.
 
 ## GUI
